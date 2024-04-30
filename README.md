@@ -11,7 +11,7 @@ To set up the Talk2TextTranslate project, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/cack195/Talk2TextTranslate.git
     ```
 
 2. Navigate to the project directory:
