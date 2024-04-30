@@ -29,7 +29,7 @@ To set up the Talk2TextTranslate project, follow these steps:
 4. Start the development server:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 5. Open your web browser and go to [http://localhost:5173](http://localhost:5173) to view the application.
